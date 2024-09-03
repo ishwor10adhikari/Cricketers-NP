@@ -33,7 +33,7 @@ body {
   left: 0;
   width: 100%;
   height: 100%;
-  background-image: url('https://www.cricnepal.com/wp-content/uploads/2023/09/Nepal-mens-team-line-up-1920x1280.jpg');
+  background-image: url('bg\ img.jpg');
   background-size: cover;
   filter: blur(1px);
   z-index: -1;
